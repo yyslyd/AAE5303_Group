@@ -13,7 +13,7 @@ The KISS principle in coding (Keep It Simple, Stupid).
 - **Name:** Man Chi Lok Louie
 - **Brief Introduction:** Self-learned coding with Google Search/Google Ai Replies, including Arduino, Google Apps Script, Excel VBA
 - **(individual) Assignment 1:** https://github.com/mcllouie/PolyU-AAE5303-assignment-1-Louie-Man
-- **(individual) Assignment 2:** https://github.com/yourname/assignment2
+- **(individual) Assignment 2:** https://github.com/mcllouie/PolyU-AAE5303-assignment-2-Louie-Man
 
 ### Member 2
 - **Student ID:** 25044023G
