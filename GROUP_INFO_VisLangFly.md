@@ -20,7 +20,7 @@ We named it "VisLangFly" because it intuitively integrates the three core elemen
 - **Name:** Ding Zhongwei
 - **Brief Introduction:** Emily focuses on frontend development and UI/UX design. She brings creative problem-solving skills and attention to user experience.
 - **(individual) Assignment 1:** https://github.com/zwding7-cell/assignment-1/blob/main/README.md
-- **(individual) Assignment 2:** https://github.com/yourname/assignment2
+- **(individual) Assignment 2:** [https://github.com/yourname/assignment2](https://github.com/dzw71/AAE5303_assignment2_orbslam3_demo-)
 
 ### Member 3
 - **Student ID:** 25046399g
