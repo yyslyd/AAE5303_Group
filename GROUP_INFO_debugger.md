@@ -32,7 +32,7 @@ We chose the name "AAE5303_Team" because it directly reflects our course code (A
 - **(group) Final project:** https://github.com/yourgroup/final-project
 - **VO:** https://github.com/yourgroup/vo
 - **Opensplating:** https://github.com/yourgroup/opensplating
-- **U-net:** https://github.com/yourgroup/u-net
+- **U-net:** https://github.com/yyslyd/U-net
 
 Up to 3 members~
 ---
