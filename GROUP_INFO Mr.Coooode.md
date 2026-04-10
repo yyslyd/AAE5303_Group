@@ -27,7 +27,8 @@
 - **Photo (Optional):** [You can add a photo link or emoji here if you want!]
 
 ## Group Projects
-- **(group) Final project:** [https://github.com/yourgroup/final-project]
-- **VO:** [https://github.com/yourgroup/vo]
+- **(group) Final project:** [https://github.com/LIUXiaolu424/AAE5303-Mr.Coooode-GroupProject]
+- **VO:** [https://github.com/xinchengZENG/VIO]
 - **Opensplating:** [https://github.com/LIUXiaolu424/AAE5303_OpenSplat]
-- **U-net:**[ [https://github.com/Destry520/AAE5303-UAV-Image-Semantic-Segmentation/tree/main]
+- **U-net:** [https://github.com/yourgroup/u-net]
+- **Slides:** [https://github.com/LIUXiaolu424/AAE5303-Group-Slides]
