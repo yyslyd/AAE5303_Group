@@ -43,13 +43,13 @@ Data never rests, and neither do we.
 - **(individual) Assignment 2:** [https://github.com/Li_Ziyan/assignment2](https://github.com/joyziyan678/AAE5303_assignment2_orbslam3_demo-)
 
 ## Group Projects
-- **(group) Final project:** https://github.com/yourgroup/final-project
-- **VO:** https://github.com/yourgroup/vo
-- **Opensplating:** https://github.com/yourgroup/opensplating
-- **U-net:** https://github.com/yourgroup/u-net
+- **(group) Final project slides:** [https://github.com/Final_Project_Slides](https://github.com/SeanHOU123/AAE5303_Group_Project_Slides) 
+- **VO:** [https://github.com/HOU_Guanhao/AAE5303_Group_Project_VO](https://github.com/SeanHOU123/AAE5303_Group_Project_VO) 
+- **Opensplating:** [https://github.com/Li_Ziyan/AAE5303_Group_Project_Opensplating](https://github.com/joyziyan678/gogogo-OpenSplating) 
+- **U-net:** [https://github.com/GAN_Yuxin/AAE5303_Group_Project_U-net](https://github.com/gyx2003328-dot/semantic-project) 
 
 Up to 3 members~
 ---
 
-*Last Updated: [26/01/2026]*
+*Last Updated: [10/04/2026]*
 
