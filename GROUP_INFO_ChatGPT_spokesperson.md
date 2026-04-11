@@ -45,6 +45,6 @@ We chose **ChatGPT_spokesperson** because we do not understand this course and a
 - **VO:**:[https://github.com/Evelyn4k4k/uav-perception-pipeline]
 - **Opensplating:** https://github.com/yourgroup/opensplating
 - **U-net:** https://github.com/yourgroup/u-net
-- **slides**[https://docs.google.com/presentation/d/1YDNqTr2n_yEqhghvnCL7OSB4IXguLZryLUvzc5zPlaA/edit?slide=id.p10#slide=id.p10]
+- **slides**[https://docs.google.com/presentation/d/1gBrMH_M-B5DT72-EeugAhk7c-AxHKVQDEug5OhWHyvE/edit?slide=id.p1#slide=id.p1]
 
 ---
