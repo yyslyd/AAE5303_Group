@@ -30,3 +30,4 @@ Carrot🥕? Tissue🧻? Zheng Bang😊!
 - **VO:** [https://github.com/yourgroup/vo]
 - **Opensplating:** [https://github.com/yourgroup/opensplating]
 - **U-net:** [https://github.com/yourgroup/u-net]
+- **slides：** [https://github.com/YuxinYang2002/AAE5303_group_slide]
