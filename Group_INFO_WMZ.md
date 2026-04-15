@@ -34,7 +34,7 @@ The KISS principle in coding (Keep It Simple, Stupid).
 - **(individual) Assignment 2:** https://github.com/lubailin0408/AAE5303_assignment2_orbslam3_demo-
 
 ## Group Projects
-- **(group) Final project:** https://github.com/yourgroup/final-project
+- **(group) Final project:** https://github.com/mcllouie/AAE5303_Final-project_--WMZ
 - **VO:** https://github.com/mcllouie/AAE5303-Group_Project-WMZ-VO
 - **Opensplating:** https://github.com/SB213wcsndm/AAE5303_opensplat_demo-.git
 - **U-net:** https://github.com/lubailin0408/AAE5303_UNet
@@ -43,5 +43,5 @@ The KISS principle in coding (Keep It Simple, Stupid).
 Up to 3 members~
 ---
 
-*Last Updated: 2026APR08*
+*Last Updated: 2026APR14*
 
